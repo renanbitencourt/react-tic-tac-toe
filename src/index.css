@@ -50,3 +50,12 @@ button:focus-visible {
   text-align: center;
   margin: 2px;
 }
+
+.status {
+  margin-bottom: 16px;
+}
+
+.reset {
+  margin-top: 16px;
+  padding: 8px;
+}
